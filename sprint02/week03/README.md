@@ -7,7 +7,7 @@
 Въпроси от спринт 1. Задача за n-та производна и припомняне на математическа индукция.
 
 ## Геометрия
-- Правим преговор на криви от втора степен: хипербола, елипса, парабола. Уравнения и фокуси.
+- Правим преговор на криви от втора степен: хипербола, елипса, парабола. Метрични канонични уравнения и координати на фокуси.
 
 - Въвеждаме формула за уравнение на допирателна към окръжност, минаваща през точка от окръжността. Решаваме основна задача.
 
@@ -17,7 +17,7 @@
     * [Допирателна към елипса](https://github.com/nikevelik/math-xii-adv/blob/main/sprint02/week03/tangents-to-quadratic-curves-separate-files/Vedi12kl-33-35.pdf) 
     * [Допирателна към хипербола](https://github.com/nikevelik/math-xii-adv/blob/main/sprint02/week03/tangents-to-quadratic-curves-separate-files/Vedi12kl-36-37.pdf)
     * [Допирателна към парабола](https://github.com/nikevelik/math-xii-adv/blob/main/sprint02/week03/tangents-to-quadratic-curves-separate-files/Vedi12kl-37-38.pdf)  
-    * [Тук са събрани на едно място горните файлове](https://github.com/nikevelik/math-xii-adv/blob/main/sprint02/week03/Vedi12kl-31-38.pdf) 
+    * [Тук са събрани на едно място горните файлове със задачите от новия материал](https://github.com/nikevelik/math-xii-adv/blob/main/sprint02/week03/Vedi12kl-31-38.pdf) 
 
 - Да се решат всички задачи от файловете. Би трябвало да са между 30 и 40 задачи. Да се почне от преговорните от 11. клас.
 - Да се разгледа теорията и решените задачи, за да се дообогатят или припомнят знания.
