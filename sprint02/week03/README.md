@@ -16,7 +16,6 @@
     * [Допирателна към окръжност](https://github.com/nikevelik/math-xii-adv/blob/main/sprint02/week03/tangents-to-quadratic-curves-separate-files/Vedi12kl-31-32.pdf)  
     * [Допирателна към елипса](https://github.com/nikevelik/math-xii-adv/blob/main/sprint02/week03/tangents-to-quadratic-curves-separate-files/Vedi12kl-33-35.pdf) 
     * [Допирателна към хипербола](https://github.com/nikevelik/math-xii-adv/blob/main/sprint02/week03/tangents-to-quadratic-curves-separate-files/Vedi12kl-36-37.pdf)
-    * [Допирателна към парабола](https://github.com/nikevelik/math-xii-adv/blob/main/sprint02/week03/tangents-to-quadratic-curves-separate-files/Vedi12kl-37-38.pdf)  
     * [Тук са събрани на едно място горните файлове със задачите от новия материал](https://github.com/nikevelik/math-xii-adv/blob/main/sprint02/week03/Vedi12kl-31-38.pdf) 
 
 - Да се решат всички задачи от файловете. Би трябвало да са между 30 и 40 задачи. Да се почне от преговорните от 11. клас.
